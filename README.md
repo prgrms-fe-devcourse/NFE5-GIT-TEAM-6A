@@ -79,5 +79,4 @@ npm run dev
 
 ++ 최정은
 노동연
-https://github.com/prgrms-fe-devcourse/NFE5-GIT-TEAM-6A/blob/main/CONTRIBUTING.md
-ㅁㄴㅇㄹ
+
